@@ -267,9 +267,10 @@ namespace Курсова_робота
         {
             string searchText = tbSearch.Text.ToLower();
 
+            RestoreOriginalItems();
+
             if (string.IsNullOrWhiteSpace(searchText))
             {
-                RestoreOriginalItems();
                 return;
             }
 
