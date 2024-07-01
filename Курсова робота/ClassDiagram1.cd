@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсова_робота.ColumnSorter.ListViewColumnSorter">
+    <Position X="13" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAQAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ColumnSorter\ListViewColumnSorter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeveloperLib.Developer">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Employee\Developer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeLib.Employee">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACASAAAAAAAIAgEBAAAAQAEAAQAAAAAAAggAAAAEA=</HashCode>
+      <FileName>Employee\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсова_робота.EmployeeRepository">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAiAAAAACIAEAAAgAAgQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Employee\EmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ManagerLib.Manager">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAA=</HashCode>
+      <FileName>Employee\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassportDataLib.PassportData">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEAAAAABAgAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee\PassportData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveDataLib.SaveData">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SaveData\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсова_робота.fMain">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQAoSgAAGAAuIAgMEDQIFQGEAARAAgAgSBgAAAgSEA=</HashCode>
+      <FileName>fMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсова_робота.fEmployee">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>swAQAAogACIAAHEBIACAAoQCAAAQAEgAAAAAAAAIQFE=</HashCode>
+      <FileName>fEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IEmployeeLib.IEmployeeRepository">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAiAAAAACAAEAAAgAAgQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Employee\IEmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
